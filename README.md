@@ -13,10 +13,13 @@ xxxxxx.dae   .dae is the <mesh> of the model, which means it contents the appear
 0.Download the data into /home/username/
 
 1. Access to the folder 
+
 cd ~/.gazebo/models
 
 2. creat one folder "velodyne_hdl32"
+
 mkdir ~/.gazebo/models/velodyne_hdl32
 
 3.copy the all the file about Velodeny into folder 
+
 cp -r Velodyne_hdl32./ ~/.gazebo/models/velodyne_hdl32
