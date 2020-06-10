@@ -22,4 +22,5 @@ mkdir ~/.gazebo/models/velodyne_hdl32
 
 3.copy the all the file about Velodeny into folder 
 
+
 cp -r Velodyne_hdl32./ ~/.gazebo/models/velodyne_hdl32
